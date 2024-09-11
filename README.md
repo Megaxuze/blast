@@ -12,4 +12,4 @@ jalankan
 ```npm install ethers```
 jika Error install ```apt install python3```
 
-Run Bridge '''node run.js''''
+Run Bridge ```node run.js```
